@@ -1,0 +1,12 @@
+C:\Users\213002\source\repos\213002-code3\bin\Debug\netcoreapp3.1\213002-code3.exe
+C:\Users\213002\source\repos\213002-code3\bin\Debug\netcoreapp3.1\213002-code3.deps.json
+C:\Users\213002\source\repos\213002-code3\bin\Debug\netcoreapp3.1\213002-code3.runtimeconfig.json
+C:\Users\213002\source\repos\213002-code3\bin\Debug\netcoreapp3.1\213002-code3.runtimeconfig.dev.json
+C:\Users\213002\source\repos\213002-code3\bin\Debug\netcoreapp3.1\213002-code3.dll
+C:\Users\213002\source\repos\213002-code3\bin\Debug\netcoreapp3.1\213002-code3.pdb
+C:\Users\213002\source\repos\213002-code3\obj\Debug\netcoreapp3.1\213002-code3.AssemblyInfoInputs.cache
+C:\Users\213002\source\repos\213002-code3\obj\Debug\netcoreapp3.1\213002-code3.AssemblyInfo.cs
+C:\Users\213002\source\repos\213002-code3\obj\Debug\netcoreapp3.1\213002-code3.csproj.CoreCompileInputs.cache
+C:\Users\213002\source\repos\213002-code3\obj\Debug\netcoreapp3.1\213002-code3.dll
+C:\Users\213002\source\repos\213002-code3\obj\Debug\netcoreapp3.1\213002-code3.pdb
+C:\Users\213002\source\repos\213002-code3\obj\Debug\netcoreapp3.1\213002-code3.genruntimeconfig.cache

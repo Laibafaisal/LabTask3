@@ -1,0 +1,13 @@
+C:\Users\213002\source\repos\213002-Snip1\bin\Debug\netcoreapp3.1\213002-Snip1.exe
+C:\Users\213002\source\repos\213002-Snip1\bin\Debug\netcoreapp3.1\213002-Snip1.deps.json
+C:\Users\213002\source\repos\213002-Snip1\bin\Debug\netcoreapp3.1\213002-Snip1.runtimeconfig.json
+C:\Users\213002\source\repos\213002-Snip1\bin\Debug\netcoreapp3.1\213002-Snip1.runtimeconfig.dev.json
+C:\Users\213002\source\repos\213002-Snip1\bin\Debug\netcoreapp3.1\213002-Snip1.dll
+C:\Users\213002\source\repos\213002-Snip1\bin\Debug\netcoreapp3.1\213002-Snip1.pdb
+C:\Users\213002\source\repos\213002-Snip1\obj\Debug\netcoreapp3.1\213002-Snip1.csprojAssemblyReference.cache
+C:\Users\213002\source\repos\213002-Snip1\obj\Debug\netcoreapp3.1\213002-Snip1.AssemblyInfoInputs.cache
+C:\Users\213002\source\repos\213002-Snip1\obj\Debug\netcoreapp3.1\213002-Snip1.AssemblyInfo.cs
+C:\Users\213002\source\repos\213002-Snip1\obj\Debug\netcoreapp3.1\213002-Snip1.csproj.CoreCompileInputs.cache
+C:\Users\213002\source\repos\213002-Snip1\obj\Debug\netcoreapp3.1\213002-Snip1.dll
+C:\Users\213002\source\repos\213002-Snip1\obj\Debug\netcoreapp3.1\213002-Snip1.pdb
+C:\Users\213002\source\repos\213002-Snip1\obj\Debug\netcoreapp3.1\213002-Snip1.genruntimeconfig.cache
